@@ -15,4 +15,4 @@ function checkOontainDuplicate(array){
 }
 
  let nums =[1, 2, 3, 4]
- console.log(checkOontainDuplicate(nums))
+ console.log("output",checkOontainDuplicate(nums))
